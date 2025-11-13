@@ -1,4 +1,4 @@
-🎓 CampusConnect – Frontend
+🎓 AccademicConnection – Frontend
 
 A student-focused web platform that connects university learners for collaboration, study groups, resource sharing, event participation, and academic growth.
 This is the frontend interface built with HTML, CSS, Bootstrap, and JavaScript.
