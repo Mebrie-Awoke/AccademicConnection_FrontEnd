@@ -16,7 +16,6 @@ Sign Up / Login using username & email validation
 
 Local user storage simulation (can connect to real backend later)
 
-Basic authentication flow (redirect after login/signup)
 
 👥 Study Group Finder
 
