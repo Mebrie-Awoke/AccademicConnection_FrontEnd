@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | CampusConnect</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="Css1/style.css">
+</head>
+<body>
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">CampusConnect</a>
+      <div class="collapse navbar-collapse">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a href="study-groups.html" class="nav-link">Study Groups</a></li>
+          <li class="nav-item"><a href="resources.html" class="nav-link">Resources</a></li>
+          <li class="nav-item"><a href="events.html" class="nav-link">Events</a></li>
+          <li class="nav-item"><a href="forum.html" class="nav-link active">Forum</a></li>
+          <li class="nav-item"><a href="about.html" class="nav-link ">About</a></li>
+          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+<div class="container my-5">
+  <h2 class="text-primary mb-4">Academic Q&A Forum</h2>
+  <div class="card p-4 mb-4">
+    <form id="questionForm">
+      <div class="mb-2">
+        <input id="questionTitle" class="form-control" type="text" placeholder="Question title" required>
+      </div>
+      <div class="mb-2">
+        <textarea id="questionBody" class="form-control" rows="3" placeholder="Ask your question here..." required></textarea>
+      </div>
+      <div class="text-end">
+        <button type="submit" class="btn btn-primary">Post Question</button>
+      </div>
+    </form>
+  </div>
+
+  <div id="questionsContainer" class="mb-5">
+    <!-- Questions will be rendered here -->
+  </div>
+</div>
+<script src="js/auth.js"></script>
+<script src="js/forum.js"></script>
+</body>
+</html>
