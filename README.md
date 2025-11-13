@@ -60,3 +60,5 @@ Stripe-ready integration for secure payments
 Mission, vision, and team info
 
 Contact form with email and location details
+
+
