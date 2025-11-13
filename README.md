@@ -3,7 +3,7 @@
 A student-focused web platform that connects university learners for collaboration, study groups, resource sharing, event participation, and academic growth.
 This is the frontend interface built with HTML, CSS, Bootstrap, and JavaScript.
 
-🌍 Overview Of
+🌍 Overview Of AccademicConnection
 
 CampusConnect is designed to enhance the university experience by bringing all aspects of campus life into one place — from finding study partners to accessing textbooks and tracking campus events.
 
