@@ -5,7 +5,7 @@ This is the frontend interface built with HTML, CSS, Bootstrap, and JavaScript.
 
 🌍 Overview Of AccademicConnection
 
-CampusConnect is designed to enhance the university experience by bringing all aspects of campus life into one place — from finding study partners to accessing textbooks and tracking campus events.
+AccademicConnection is designed to enhance the university experience by bringing all aspects of campus life into one place — from finding study partners to accessing textbooks and tracking campus events.
 
 The frontend provides an intuitive and mobile-friendly UI, ready to connect with a Node.js + MongoDB backend.
 
