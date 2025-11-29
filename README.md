@@ -9,7 +9,7 @@ AccademicConnection is designed to enhance the university experience by bringing
 
 The frontend provides an intuitive and mobile-friendly UI, ready to connect with a Node.js + MongoDB backend.
 
-✨ Core Features
+
 🧑‍🎓 User & Auth
 
 Sign Up / Login using username & email validation
