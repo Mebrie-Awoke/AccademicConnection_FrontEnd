@@ -12,7 +12,7 @@ The frontend provides an intuitive and mobile-friendly UI, ready to connect with
 
 🧑‍🎓 User & Auth
 
-Sign Up / Login using username & email validation
+Sign Up  Login using username & email validation
 
 Local user storage simulation (can connect to real backend later)
 
