@@ -56,7 +56,7 @@ Stripe-ready integration for secure payments
 
 📞 About & Contact Pages
 
-Mission, vision, and team info
+Mission, vision and team info
 
 Contact form with email and location details
 
