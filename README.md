@@ -9,7 +9,6 @@ AccademicConnection is designed to enhance the university experience by bringing
 
 The frontend provides an intuitive and mobile-friendly UI, ready to connect with a Node.js + MongoDB backend.
 
-
 🧑‍🎓 User & Auth
 
 Sign Up or Login using username & email validation
@@ -31,7 +30,7 @@ Price and condition details for buying/selling
 
 🎉 Campus Event Hub
 
-Discover workshops, hackathons, and campus activities
+Discover workshops, hackathons and campus activities
 
 RSVP and participation list
 
